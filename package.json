@@ -1,0 +1,26 @@
+{
+  "name": "react-native-app-header",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React Native Header Navigation",
+    "UI Component",
+    "Customizable",
+    "Mobile Development",
+    "JavaScript",
+    "Component Library",
+    "User Interface",
+    "Mobile App Development"
+  ],
+  "author": "Harshal Mahajan",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-vector-icons": "^10.0.3"
+  }
+}
