@@ -2,6 +2,14 @@
 
 React Native App Header is a customizable component for React Native applications that allows you to easily implement a header bar at the top of your app screens. This header can contain titles, icons, or any other elements.
 
+<p align="center">
+  <img src="https://github.com/harshalmm143/react-native-app-header/assets/102899317/72dca45c-fdec-4d9a-bc91-8de7b04e532f" width="30%" height="70%" alt="MainHeader">
+  <img src="https://github.com/harshalmm143/react-native-app-header/assets/102899317/ae586cca-3057-4c87-a4ba-f3f4138c077c" width="30%" height="70%" alt="SubHeader">
+  <img src="https://github.com/harshalmm143/react-native-app-header/assets/102899317/bad85eee-bd36-46f0-b961-f9d81c8b8ea9" width="30%" height="70%" alt="LogoHeader">
+</p>
+
+
+
 ## Installation
 
 You can install react-native-app-header via npm by running the following command in your React Native project directory:
